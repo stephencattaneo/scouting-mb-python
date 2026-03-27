@@ -6,7 +6,7 @@ Big thanks to @yelirkram as this is a fork of their work.
 
 # Instructions
 
-    1. Go to https://repl.it/.
+    1. Go to https://repl.it/
     2. Create an account using the **Sign up** button or log in to your account using the **Log in** button.
     3. Click on the **Import code or design** button.
     4. Choose the **GitHub** button.
