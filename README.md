@@ -18,7 +18,7 @@ Big thanks to @yelirkram as this is a fork of their work.
     10. Click the Console tab to interact with your program.
     11. Make 4 of the 7 changes suggested at the top of the file
     12. Repeat steps 3 - 11 for the following projects:
-        1. **JavaScript** - https://github.com/stephencattaneo/scouting-mb-python
+        1. **JavaScript** - https://github.com/stephencattaneo/scouting-mb-javascript
         2. **Golang** - https://github.com/stephencattaneo/scouting-mb-golang
 
 ##  Coding Project Troubleshooting
